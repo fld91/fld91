@@ -1,36 +1,21 @@
-# Hi there, I'm Shrihari 👋
+# ![image](https://github.com/user-attachments/assets/65bba1fe-4562-43ac-a175-887f85a30651) Hello, welcome to my github profile!
+#### I specialize in Java, Spring Boot, and MERN stack and love working on scalable backend systems and AI-driven applications. Passionate about automation and AI-powered SaaS, I constantly explore cutting-edge technologies to build high-performance, impactful solutions.
+
 
 
 
 
 ### 🚀 About Me
 
-🔹 Aspiring Java Backend Engineer | AI & Game Development Enthusiast   
-🔹 Passionate about building scalable systems, AI-powered applications, and urban development solutions  
-🔹 Currently upskilling in Java, Spring Boot, and System Design  
+####🔹 Aspiring Java Backend Engineer | AI & Game Development Enthusiast   
+####🔹 Passionate about building scalable systems, AI-powered applications, and urban development solutions  
+####🔹 Currently upskilling in Java, Spring Boot, and System Design  
 - 👀 I’m interested in building Scalable and end to end solutions ...   
 - 🌱 I’m currently learning Java Springboot and building AI models based projects ...  
 - 💞️ I’m looking to collaborate on Open Source Source Scalable Project...   
 
-### 💻 Tech Stack
 
-Frontend:ReactJS,NextJS
-Backend: Java, Spring Boot, FastAPI,NodeJS
-Databases: MySQL, PostgreSQL
-Frontend: React, Next.js, TailwindCSS
-Game Dev: Unity (C#), Unreal Engine (Blueprints)
-AI/ML: TensorFlow, OpenCV, AI Voice & Image Models
-DevOps: Docker, Kubernetes, AWS, Firebase
 
-### 🎯 Learning & Interests
-
-Building AI-powered SaaS applications (Image & Video Enhancement, AI Chatbots)
-
-Creating 3D realistic games (Inspired by Ghost of Tsushima)
-
-Exploring urban planning and infrastructure projects
-
-Developing a multi-AI integration platform for productivity
 
 ### 🌍 Connect With Me
 
