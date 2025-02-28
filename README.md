@@ -1,4 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/65bba1fe-4562-43ac-a175-887f85a30651) Hello, welcome to my github profile!
+# :wave:  Hello, welcome to my github profile!
 #### I specialize in Java, Spring Boot, and MERN stack and love working on scalable backend systems and AI-driven applications. Passionate about automation and AI-powered SaaS, I constantly explore cutting-edge technologies to build high-performance, impactful solutions.
 
 
@@ -7,13 +7,17 @@
 
 ### 🚀 About Me
 
-####🔹 Aspiring Java Backend Engineer | AI & Game Development Enthusiast   
-####🔹 Passionate about building scalable systems, AI-powered applications, and urban development solutions  
-####🔹 Currently upskilling in Java, Spring Boot, and System Design  
-- 👀 I’m interested in building Scalable and end to end solutions ...   
-- 🌱 I’m currently learning Java Springboot and building AI models based projects ...  
-- 💞️ I’m looking to collaborate on Open Source Source Scalable Project...   
+#### 🖥️ Currently Developing: An E-commerce tool suite (Store, Invoicing, Inventory, Marketing).
 
+#### 🌱 Currently Learning: Low-Level Design (LLD) & System Design to build scalable architectures.
+
+#### ☁️ Cloud Expertise: Well-versed in AWS cloud infrastructure for scalable and efficient deployments.
+
+#### 💡 Open to Collaboration: Always excited to work on innovative and impactful projects. Feel free to reach out!
+
+#### 🧠 Looking to Contribute: Passionate about open-source and eager to give back to the developer community.
+
+#### 🖥️📩 Let’s Connect: Drop me a message if you have an interesting idea!
 
 
 
