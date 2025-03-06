@@ -1,4 +1,4 @@
-# :wave:  Hello, welcome to my github profile!
+# :wave:  Hello, Welcome to my github profile!
 #### I specialize in Java, Spring Boot, and MERN stack and love working on scalable backend systems and AI-driven applications. Passionate about automation and AI-powered SaaS, I constantly explore cutting-edge technologies to build high-performance, impactful solutions.
 
 
